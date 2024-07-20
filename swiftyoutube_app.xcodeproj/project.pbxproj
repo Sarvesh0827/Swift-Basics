@@ -49,6 +49,7 @@
 		1FB3F57E2C440F2700641808 /* swiftyoutube_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftyoutube_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FB3F5822C440F2700641808 /* swiftyoutube_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftyoutube_appUITests.swift; sourceTree = "<group>"; };
 		1FB3F5842C440F2700641808 /* swiftyoutube_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftyoutube_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1FB3F5912C440F7A00641808 /* variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		1FB3F5552C440F2600641808 = {
 			isa = PBXGroup;
 			children = (
+				1FB3F5912C440F7A00641808 /* variables.playground */,
 				1FB3F5602C440F2600641808 /* swiftyoutube_app */,
 				1FB3F5772C440F2700641808 /* swiftyoutube_appTests */,
 				1FB3F5812C440F2700641808 /* swiftyoutube_appUITests */,
